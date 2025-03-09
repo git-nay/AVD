@@ -2,7 +2,6 @@
 $customApps = @(
     @{ Name = "WinRAR"; Url = "https://www.rarlab.com/rar/winrar-x64-623.exe"; InstallerType = "exe"; SilentArgs = "/S" }
     @{ Name = "Adobe Reader"; Url = "https://www.rarlab.com/rar/winrar-x64-623.exe"; InstallerType = "exe"; SilentArgs = "/S" }
-    @{ Name = "Discord"; Url = "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64"; InstallerType = "exe"; SilentArgs = "/S" }
     @{ Name = "Firefox"; Url = "https://www.mozilla.org/en-GB/firefox/all/desktop-release/win64/en-GB/"; InstallerType = "exe"; SilentArgs = "/S" }
 )
 
