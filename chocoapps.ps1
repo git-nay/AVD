@@ -15,3 +15,6 @@ choco install vscode -y
 
 # Install Azure CLI
 choco install azure-cli -y
+
+# Install Chrome
+choco install googlechrome -y
